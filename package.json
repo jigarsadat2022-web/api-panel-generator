@@ -1,8 +1,11 @@
 {
   "name": "api-panel-generator",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
-    "@sparticuz/chromium": "123.0.1",
-    "puppeteer-core": "22.6.0"
+    "@sparticuz/chromium": "119.0.0",
+    "puppeteer-core": "21.5.0"
   }
 }
